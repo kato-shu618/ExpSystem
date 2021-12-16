@@ -1,0 +1,21 @@
+import java.util.ArrayList;
+
+public class Wallet{
+	private ArrayList<Value> list = new ArrayList<Value>();
+	public Wallet(){
+	}
+	public void add(Value value){
+
+	}
+	public Value remove(int number){
+		return null;
+	}
+	public int size(){
+		return null;
+	}
+	public int getSum(){
+		return 0;
+	}
+	public void print(){
+	}
+}
